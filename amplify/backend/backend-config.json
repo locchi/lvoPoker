@@ -1,25 +1,9 @@
 {
-  "api": {
-    "api894fd00a": {
-      "dependsOn": [
-        {
-          "attributes": [
-            "Name",
-            "Arn"
-          ],
-          "category": "function",
-          "resourceName": "lvopoker21d75925"
-        }
-      ],
-      "providerPlugin": "awscloudformation",
-      "service": "API Gateway"
-    }
-  },
-  "function": {
-    "lvopoker21d75925": {
-      "build": true,
-      "providerPlugin": "awscloudformation",
-      "service": "Lambda"
+  "hosting": {
+    "amplifyhosting": {
+      "lastPushTimeStamp": "2023-06-16T14:04:45.610Z",
+      "service": "amplifyhosting",
+      "type": "cicd"
     }
   },
   "parameters": {
