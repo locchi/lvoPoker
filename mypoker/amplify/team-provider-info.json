@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mypoker-dev-120630-authRole",
+      "UnauthRoleArn": "arn:aws:iam::658562546732:role/amplify-mypoker-dev-120630-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::658562546732:role/amplify-mypoker-dev-120630-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-mypoker-dev-120630-deployment",
+      "UnauthRoleName": "amplify-mypoker-dev-120630-unauthRole",
+      "StackName": "amplify-mypoker-dev-120630",
+      "StackId": "arn:aws:cloudformation:us-east-1:658562546732:stack/amplify-mypoker-dev-120630/60d9ab30-0c57-11ee-b546-0e7da9f4f72b",
+      "AmplifyAppId": "d2rsb1f0j154gx"
+    }
+  }
+}
