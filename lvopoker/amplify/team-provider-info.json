@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-lvopoker-dev-171722-authRole",
+      "UnauthRoleArn": "arn:aws:iam::658562546732:role/amplify-lvopoker-dev-171722-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::658562546732:role/amplify-lvopoker-dev-171722-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-lvopoker-dev-171722-deployment",
+      "UnauthRoleName": "amplify-lvopoker-dev-171722-unauthRole",
+      "StackName": "amplify-lvopoker-dev-171722",
+      "StackId": "arn:aws:cloudformation:us-east-1:658562546732:stack/amplify-lvopoker-dev-171722/a3812830-0bb9-11ee-b6b4-0eb10f2bb6ff",
+      "AmplifyAppId": "dlpbx0ddstn89"
+    }
+  }
+}

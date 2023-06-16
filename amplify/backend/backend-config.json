@@ -1,0 +1,43 @@
+{
+  "api": {
+    "api894fd00a": {
+      "dependsOn": [
+        {
+          "attributes": [
+            "Name",
+            "Arn"
+          ],
+          "category": "function",
+          "resourceName": "lvopoker21d75925"
+        }
+      ],
+      "providerPlugin": "awscloudformation",
+      "service": "API Gateway"
+    }
+  },
+  "function": {
+    "lvopoker21d75925": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  },
+  "parameters": {
+    "AMPLIFY_function_lvopoker21d75925_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "lvopoker21d75925"
+        }
+      ]
+    },
+    "AMPLIFY_function_lvopoker21d75925_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "lvopoker21d75925"
+        }
+      ]
+    }
+  }
+}
