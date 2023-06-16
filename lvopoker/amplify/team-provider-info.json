@@ -10,6 +10,14 @@
       "StackName": "amplify-lvopoker-dev-171722",
       "StackId": "arn:aws:cloudformation:us-east-1:658562546732:stack/amplify-lvopoker-dev-171722/a3812830-0bb9-11ee-b6b4-0eb10f2bb6ff",
       "AmplifyAppId": "dlpbx0ddstn89"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dlpbx0ddstn89",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
